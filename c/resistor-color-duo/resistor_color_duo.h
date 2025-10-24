@@ -16,4 +16,6 @@ typedef enum
 	COLOR_COUNT
 } resistor_band_t;
 
+int color_code(resistor_band_t band[]);
+
 #endif

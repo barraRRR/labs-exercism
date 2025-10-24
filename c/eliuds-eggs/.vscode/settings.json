@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "ios": "c",
+        "stdlib.h": "c"
+    },
+    "makefile.configureOnOpen": true
+}
